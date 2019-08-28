@@ -1,3 +1,8 @@
+theme：jekyll-theme-cayman
+title: Welcome to the Octocat’s homepage!
+description：fell free to bookmark this to keep an eye on my project updates
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/know-yourself/shiyanlou/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
